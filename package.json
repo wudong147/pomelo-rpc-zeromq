@@ -6,6 +6,6 @@
 		"pomelo-loader": "0.0.5",
 		"pomelo-logger": "0.1.2",
 		"node-uuid": "1.4.0",
-		"zmq": "2.3.0"
+		"zmq": "2.14.0"
 	}
 }
